@@ -1,2 +1,3 @@
 some configuration file content
+some changes 
 blah bglah
